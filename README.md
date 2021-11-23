@@ -1,5 +1,5 @@
 Hello, my name is Yoni Lurie. 
-I am a beginner developer and am currently working through [The Odin Project] (https://www.theodinproject.com)
+I am a beginner developer and am currently working through [The Odin Project](https://www.theodinproject.com)
 
 LinkedIn - https://www.linkedin.com/in/yonatan-lurie-464266203/
 <!---
