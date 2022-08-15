@@ -1,6 +1,6 @@
 Hello, my name is Yoni Lurie. 
 
-[![Yoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonilurie)](https://github.com/yonilurie/github-readme-stats)
+[![Yoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonilurie&theme=radical)](https://github.com/yonilurie/github-readme-stats)
 
 LinkedIn - https://www.linkedin.com/in/yonatan-lurie-464266203/
 <!---
