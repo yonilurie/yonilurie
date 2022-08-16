@@ -1,6 +1,16 @@
+## About Me
+
 Hello, my name is Yoni Lurie. I am a software engineer and current student at [App Academy](https://www.appacademy.io/)
 
 [![Yoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonilurie&theme=radical)](https://github.com/yonilurie/github-readme-stats)
+
+## Some Projects
+
+### [Etch-A-Sketch](https://yonilurie.github.io/Etch-A-Sketch-Web/)
+
+### [Airbnb](https://backend-project-airbnb.herokuapp.com/)
+
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonatan-lurie-464266203/)
 
@@ -17,26 +27,5 @@ Hello, my name is Yoni Lurie. I am a software engineer and current student at [A
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
 
-
-
-
-
-
-
-
-
-
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
-
-
-
-
-<!---
-yonilurie/yonilurie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
