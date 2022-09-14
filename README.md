@@ -9,6 +9,8 @@ Hello, my name is Yoni Lurie. I am a software engineer and current student at [A
 ### [Etch-A-Sketch](https://yonilurie.github.io/Etch-A-Sketch-Web/)
 
 ### [Airbnb](https://backend-project-airbnb.herokuapp.com/)
+### [Instagram Clone](https://the-gramme.herokuapp.com)
+### [Reddit Clone](https://teddir.herokuapp.com)
 
 ## Contact
 
