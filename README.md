@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, my name is Yoni Lurie. I am a software engineer and current student at [App Academy](https://www.appacademy.io/)
+Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https://www.appacademy.io/) graduate
 
 [![Yoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonilurie&theme=radical)](https://github.com/yonilurie/github-readme-stats)
 
