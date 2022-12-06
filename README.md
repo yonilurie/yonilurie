@@ -9,7 +9,7 @@ Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https:/
 ### [Etch-A-Sketch](https://yonilurie.github.io/Etch-A-Sketch-Web/)
 ### [Wordle](https://nyt-wordle-clone.netlify.app/)
 ### [Airbnb Clone](https://a-bnb.herokuapp.com/)
-### [Instagram Clone](https://the-gramme.herokuapp.com)
+### [Instagram Clone](https://thegramme.herokuapp.com/)
 ### [Reddit Clone](https://teddir.herokuapp.com)
 
 ## Contact
