@@ -2,7 +2,9 @@
 
 Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https://www.appacademy.io/) graduate
 
-[![Yoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonilurie&theme=radical)](https://github.com/yonilurie/github-readme-stats)
+![](https://raw.githubusercontent.com/yonilurie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yonilurie/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 ## Some Projects
 
