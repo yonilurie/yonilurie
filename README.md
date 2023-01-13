@@ -2,11 +2,8 @@
 
 Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https://www.appacademy.io/) graduate
 
-![](https://raw.githubusercontent.com/yonilurie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/yonilurie/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
+![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Some Projects
 
@@ -20,7 +17,6 @@ Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https:/
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonilurie/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/yonatan-lurie)
-
 
 ## Languages
 
