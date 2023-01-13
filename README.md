@@ -4,6 +4,8 @@ Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https:/
 
 ![](https://raw.githubusercontent.com/yonilurie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yonilurie/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 ## Some Projects
