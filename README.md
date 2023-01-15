@@ -5,7 +5,7 @@ Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https:/
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
 
-## Some Projects
+## Projects
 
 ### [Etch-A-Sketch](https://yonilurie.github.io/Etch-A-Sketch-Web/)
 ### [Wordle](https://nyt-wordle-clone.netlify.app/)
