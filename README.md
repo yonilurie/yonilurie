@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https://www.appacademy.io/) graduate
+Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https://www.appacademy.io/) graduate.
 
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
