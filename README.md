@@ -1,6 +1,12 @@
 ## About Me
 
-Hello, my name is Yoni Lurie. I am a software engineer and [App Academy](https://www.appacademy.io/) graduate.
+I am a full-stack software engineer. After graduating from the University of Washington with a B.A. majoring in Psychology, I changed career paths and began studying software development. I attended the App Academy boot camp and gained 1000+ hours of experience learning about computer science and creating multiple full-stack projects. I love learning new technologies and developing software, and I have experience working in teams, as an employee, and as a leader. 
+
+Currently, I am looking for an entry-level position to join to technology sector on a professional level. I have experience creating full-stack applications using React and TypeScript for the client side and creating the server side with either Python or JavaScript, as well as using Sequelize and SQLAlchemy for database management.
+
+Some of my interests apart from software development include history, reading, word games, stand-up comedy, and music.
+
+If you want to reach out to me, a good way would be to send me an email at yonilurie@protonmail.com
 
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
