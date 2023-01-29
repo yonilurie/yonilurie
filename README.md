@@ -8,7 +8,6 @@ Some of my interests apart from software development include history, reading, w
 
 If you want to reach out to me, a good way would be to send me an email at yonilurie@protonmail.com
 
-
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
 
