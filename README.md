@@ -1,12 +1,12 @@
 ## About Me
 
-I am a full-stack software engineer. After graduating from the University of Washington with a B.A. majoring in Psychology, I changed career paths and began studying software development. I attended the App Academy boot camp and gained 1000+ hours of experience learning about computer science and creating multiple full-stack projects. I love learning new technologies and developing software, and I have experience working in teams to develop software.
+Hello! I'm Yonatan, a recent graduate with a B.A. in Psychology from the University of Washington. I successfully pivoted my career to software engineering after completing a full-stack software development boot camp, where I gained over 1000 hours of hands-on experience with React, Python, JavaScript, and SQL
 
-Currently, I am looking for an entry-level position to join to technology sector on a professional level. I have experience creating full-stack applications using React and TypeScript for the client side and creating the server side with either Python or JavaScript, as well as using Sequelize and SQLAlchemy for database management.
+As a highly motivated and quick-learning individual, I am eager to join the workforce as an entry-level software engineer. My ability to learn new technologies and develop software, combined with my experience working in teams, make me a valuable addition to any tech organization.
 
-Some of my interests apart from software development include history, reading, word games, stand-up comedy, and music.
+In my free time, I cultivate my passion for learning and personal growth through interests such as history, reading, word games, stand-up comedy, and music.
 
-If you want to reach out to me, a good way would be to send me an email at yonilurie@protonmail.com
+If you are interested in connecting and exploring potential opportunities, please feel free to connect with me on LinkedIn or reach out to me at yonilurie@protonmail.com. I would be happy to have a conversation!
 
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
