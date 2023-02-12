@@ -1,6 +1,6 @@
 ## About Me
 
-I am a full-stack software engineer. After graduating from the University of Washington with a B.A. majoring in Psychology, I changed career paths and began studying software development. I attended the App Academy boot camp and gained 1000+ hours of experience learning about computer science and creating multiple full-stack projects. I love learning new technologies and developing software, and I have experience working in teams, as an employee, and as a leader. 
+I am a full-stack software engineer. After graduating from the University of Washington with a B.A. majoring in Psychology, I changed career paths and began studying software development. I attended the App Academy boot camp and gained 1000+ hours of experience learning about computer science and creating multiple full-stack projects. I love learning new technologies and developing software, and I have experience working in teams to develop software.
 
 Currently, I am looking for an entry-level position to join to technology sector on a professional level. I have experience creating full-stack applications using React and TypeScript for the client side and creating the server side with either Python or JavaScript, as well as using Sequelize and SQLAlchemy for database management.
 
