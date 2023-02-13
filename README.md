@@ -6,7 +6,7 @@ As a highly motivated and quick-learning individual, I am eager to join the work
 
 In my free time, I cultivate my passion for learning and personal growth through interests such as history, reading, word games, stand-up comedy, and music.
 
-If you are interested in connecting and exploring potential opportunities, please feel free to connect with me on LinkedIn or reach out to me at yonilurie@protonmail.com. I would be happy to have a conversation!
+If you are interested in connecting and exploring potential opportunities, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yonilurie/) or reach out to me at yonilurie@protonmail.com. I would be happy to have a conversation!
 
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
