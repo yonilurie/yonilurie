@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Yonatan, a recent graduate with a B.A. in Psychology from the University of Washington. I successfully pivoted my career to software engineering after completing a full-stack software development boot camp, where I gained over 1000 hours of hands-on experience with React, Python, JavaScript, and SQL
+Hello! I'm Yonatan, a recent graduate with a B.A. in Psychology from the University of Washington. I pivoted my career to software engineering after completing a full-stack software development boot camp, where I gained over 1000 hours of hands-on experience with React, Python, JavaScript, SQL, and many other technologies.
 
 As a highly motivated and quick-learning individual, I am eager to join the workforce as an entry-level software engineer. My ability to learn new technologies and develop software, combined with my experience working in teams, make me a valuable addition to any tech organization.
 
