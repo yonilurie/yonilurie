@@ -2,8 +2,6 @@
 
 Hello! I'm Yonatan, a recent graduate with a B.A. in Psychology from the University of Washington. I pivoted my career to software engineering after completing a full-stack software development boot camp, where I gained over 1000 hours of hands-on experience with React, Python, JavaScript, SQL, and many other technologies.
 
-As a highly motivated and quick-learning individual, I am eager to join the workforce as an entry-level software engineer. My ability to learn new technologies and develop software, combined with my experience working in teams, make me a valuable addition to any tech organization.
-
 In my free time, I cultivate my passion for learning and personal growth through interests such as history, reading, word games, stand-up comedy, and music.
 
 If you are interested in connecting and exploring potential opportunities, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yonilurie/) or reach out to me at yonilurie@protonmail.com, I would be happy to have a conversation!
