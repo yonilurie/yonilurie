@@ -2,12 +2,9 @@
 
 Hello! I'm Yonatan, a recent graduate with a B.A. in Psychology from the University of Washington. I pivoted my career to software engineering after completing a full-stack software development boot camp, where I gained over 1000 hours of hands-on experience with React, Python, JavaScript, SQL, and many other technologies.
 
-In my free time, I cultivate my passion for learning and personal growth through interests such as history, reading, word games, stand-up comedy, and music.
+In my free time, I enjoy learning about history, reading, playing word games, watching stand-up comedy, and listening to music.
 
-If you are interested in connecting and exploring potential opportunities, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yonilurie/) or reach out to me at yonilurie@protonmail.com, I would be happy to have a conversation!
-
-![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/yonilurie/stats/master/generated/languages.svg#gh-dark-mode-only)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yonilurie/)
 
 ## Projects
 
