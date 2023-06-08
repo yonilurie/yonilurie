@@ -4,8 +4,6 @@ Hello! I'm Yonatan, a recent graduate with a B.A. in Psychology from the Univers
 
 In my free time, I enjoy learning about history, reading, playing word games, watching stand-up comedy, and listening to music.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yonilurie/)
-
 ## Projects
 
 ### [Etch-A-Sketch](https://yonilurie.github.io/Etch-A-Sketch-Web/)
