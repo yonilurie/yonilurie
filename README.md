@@ -1,6 +1,6 @@
 ## About Me
 
-Full-stack software developer. I pivoted my career to software engineering after completing a full-stack software development boot camp. I currently work at the University of Washington as a software developer
+Full-stack software developer. I pivoted my career to software engineering after completing a full-stack software development boot camp.
 
 When I'm not coding, I enjoy researching and learning about history, politics, and current affairs.
 ## Projects
